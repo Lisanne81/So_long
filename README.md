@@ -1,9 +1,9 @@
 # so_long
-2D game in C
+##2D game in C
 --------------
 Create a 2D game in C using the following rules:
 (source en.subject.pdf - so long - 42school/ codam)
-Game
+##Game
 • The player’s goal is to collect every collectible present on the map, then escape chosing the shortest possible route.
 • The W, A, S, and D keys must be used to move the main character.
 • The player should be able to move in these 4 directions: up, down, left, right.
@@ -13,7 +13,7 @@ Game
 • The game doesn’t have to be real time.
 • Although the given examples show a dolphin theme, you can create the world you want.
 
-Graphic management
+##Graphic management
 • Your program has to display the image in a window.
 • The management of your window must remain smooth (changing to another win-
   dow, minimizing, and so forth).
@@ -21,7 +21,7 @@ Graphic management
 • Clicking on the cross on the window’s frame must close the window and quit the program in a clean way.
 • The use of the images of the MiniLibX is mandatory.
 
-Map
+##Map
 • The map has to be constructed with 3 components: walls, collectibles, and free
   space.
 • The map can be composed of only these 5 characters: 
