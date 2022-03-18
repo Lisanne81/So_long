@@ -1,4 +1,4 @@
-# so_long
+# So_long
 2D game in C
 --------------
 Create a 2D game in C using the following rules:
